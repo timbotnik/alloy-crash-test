@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: App Crash Reporting
+author: Crittercism
+license: 
+copyright: Copyright (c) 2012 by Crittercism
+
+# these should not be edited
+name: crittercism
+moduleid: com.crittercism.ti
+guid: ec36d909-befa-4ca1-b518-1e3f152ead61
+platform: android
+minsdk: 3.0.1

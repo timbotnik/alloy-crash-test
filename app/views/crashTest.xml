@@ -1,0 +1,6 @@
+<Alloy>
+	<Window id="crashWindow" class="container">
+		<View id="crashView">
+		</View>
+	</Window>
+</Alloy>
