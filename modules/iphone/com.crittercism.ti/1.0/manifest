@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: App Crash Reporting, Monitoring, and App Performance Management
+author: Crittercism
+license: Proprietary
+copyright: Copyright (c) 2012 by Crittercism
+
+
+# these should not be edited
+name: crittercism
+moduleid: com.crittercism.ti
+guid: ec36d909-befa-4ca1-b518-1e3f152ead61
+platform: iphone
+minsdk: 3.0.1

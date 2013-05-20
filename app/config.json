@@ -1,0 +1,17 @@
+{
+	"global": {}, 
+	"env:development": {}, 
+	"env:test": {}, 
+	"env:production": {}, 
+	"os:ios": {
+		"crittercism": {
+				"APP_ID": "<crittercism ios app id>"
+		}
+	}, 
+	"os:android": {
+		"crittercism": {
+				"APP_ID": "<crittercism android app id>"
+		}
+	}, 
+	"dependencies": {}
+}
